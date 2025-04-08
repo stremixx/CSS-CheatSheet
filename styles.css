@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(29, 0, 83);
+    display:block;
+    font-family: "Roboto Mono", sans-serif, monospace;
+    color:white;
+    background-image: url(./background.png);
+    background-blend-mode: soft-light;
+    background-size: cover;
+
+}
+
+.topHeading {
+    background-color: #9100ff;
+    text-align: center;
+    border-radius: 5px;
+    text-shadow: 1px 1px 20px #ff00c6;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+.cheatsheet {
+    background-color: #9100ff;
+    text-align: center;
+    border-radius: 5px;
+    text-shadow: 1px 1px 20px #ff00c6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+
+}
+
+
+table {
+    background-color: 	#00f1ff;
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+
+.tableHead {
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    text-shadow: 1px 1px 20px #ff00c8;
+}
+
+.trhead {
+    background-color: #9100ff;
+    text-align: center;
+    border-radius: 5px;
+}
+
+tr{
+    background-color: rgb(75, 0, 161);
+    text-align: center;
+    border-radius: 5px;
+}
+
+th {
+    border-radius: 5px 5px 0 0;
+    
+}
+
+td {
+    border-radius: 5px;
+    line-height: 50px;
+}
