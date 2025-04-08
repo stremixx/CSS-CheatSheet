@@ -12,10 +12,15 @@ body {
 .topHeading {
     background-color: #9100ff;
     text-align: center;
+    
     border-radius: 5px;
+    
     text-shadow: 1px 1px 20px #ff00c6;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    font-size: 40px;
+    
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
     margin-left: 20%;
     margin-right: 20%;
 
@@ -26,10 +31,15 @@ body {
     text-align: center;
     border-radius: 5px;
     text-shadow: 1px 1px 20px #ff00c6;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    font-size: 40px;
+    
+    
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
     margin-left: 40%;
     margin-right: 40%;
+    margin-top: 20px;
 
 }
 
@@ -40,7 +50,9 @@ table {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
+    
     border-radius: 5px;
+
     font-size: 20px;
 
 }
@@ -66,10 +78,12 @@ tr{
 
 th {
     border-radius: 5px 5px 0 0;
+    text-shadow: 1px 1px 20px #ff00c6;
     
 }
 
 td {
     border-radius: 5px;
     line-height: 50px;
+    text-shadow: 1px 1px 20px #0d0d0d;
 }
